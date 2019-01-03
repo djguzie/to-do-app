@@ -1,5 +1,5 @@
 function onReady() {
-  const toDos = [];
+  let toDos = [];
   let iD = 0;
   const addToDoForm = document.getElementById('addToDoForm');
 
@@ -38,7 +38,7 @@ function renderTheUI() {
 
     function deleteLi(){
       toDos = toDos.filter(function(todo) {
-        return toDo.id != todo.id;
+        return todo.id != toDo.id;
       });
       renderTheUI();
     }
