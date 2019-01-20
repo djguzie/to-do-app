@@ -5,6 +5,6 @@ A jQuery based mini- project for getting things done!
 
 ## Features
 * Opens quickly
-* Multiple Browser compatibility
-* Mobile and Web ready
+* Multiple browser compatibility
+* Mobile and web ready
 * Simple interface
