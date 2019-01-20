@@ -1,7 +1,6 @@
 # TO DO APP
 
-A jQUery based mini- project for getting things done!
-
+A jQuery based mini- project for getting things done!
 
 
 ## Features
